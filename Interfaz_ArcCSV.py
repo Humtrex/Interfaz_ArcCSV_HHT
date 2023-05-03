@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import Tk
 from tkinter import ttk
-import csv 
+import csv #Lectura y escritura de archivos CSV
 
 class Widgets:
     def __init__(self): 
